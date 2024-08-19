@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ .bg-light-yellow {
+  background-color: #FFF9C4;
+  padding: 1rem;
+  border-radius: 0.25rem;
+}
